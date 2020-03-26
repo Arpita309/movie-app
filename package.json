@@ -12,7 +12,7 @@
     "backend": "nodemon server/index.js",
     "frontend": "npm run front --prefix client",
     "dev": "concurrently \"npm run backend\" \"npm run start --prefix client\"",
-    "build":"react-scripts build"
+    "build": "react-scripts build"
   },
   "author": "John ahn",
   "license": "ISC",
