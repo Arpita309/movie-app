@@ -6,5 +6,7 @@ It fetches list of latest movies from    api  and we can see all the deatils of 
 [Live demo](https://graph-qlapp.herokuapp.com/#/)
 
 ## ScreenShots
-<img src="
+<img src="https://github.com/Arpita309/portfolio/blob/master/public/images/portfolio/movieApp.png">
+
+
 <img src="https://github.com/Arpita309/portfolio/blob/master/public/images/portfolio/MovieListing.png">
